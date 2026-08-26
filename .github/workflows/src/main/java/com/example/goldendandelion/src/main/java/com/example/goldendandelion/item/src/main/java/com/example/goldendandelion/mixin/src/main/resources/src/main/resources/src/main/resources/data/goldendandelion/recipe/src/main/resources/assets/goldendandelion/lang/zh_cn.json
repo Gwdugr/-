@@ -1,0 +1,6 @@
+{
+  "item.goldendandelion.golden_dandelion": "金蒲公英",
+  "message.goldendandelion.success": "§6这只幼年生物被金蒲公英祝福了！",
+  "message.goldendandelion.failure": "§c这不是一只幼年生物！",
+  "message.goldendandelion.area_success": "§6祝福了 %d 只幼年生物获得永恒的青春！"
+}
