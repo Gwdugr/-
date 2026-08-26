@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "goldendandelion",
+  "version": "1.0.0",
+  "name": "Golden Dandelion",
+  "description": "A magical golden dandelion that prevents baby animals from growing up!",
+  "authors": [
+    "Gwdugr"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.goldendandelion.GoldenDandelionMod"
+    ]
+  },
+  "mixins": [
+    "goldendandelion.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
