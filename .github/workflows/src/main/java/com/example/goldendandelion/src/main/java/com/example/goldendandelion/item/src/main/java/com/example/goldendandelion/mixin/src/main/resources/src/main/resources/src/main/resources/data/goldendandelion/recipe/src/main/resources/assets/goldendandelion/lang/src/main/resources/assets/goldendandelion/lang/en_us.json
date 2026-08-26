@@ -1,0 +1,6 @@
+{
+  "item.goldendandelion.golden_dandelion": "Golden Dandelion",
+  "message.goldendandelion.success": "§6The baby animal is now blessed by the golden dandelion!",
+  "message.goldendandelion.failure": "§cThis is not a baby animal!",
+  "message.goldendandelion.area_success": "§6Blessed %d baby animals with eternal youth!"
+}
